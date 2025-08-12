@@ -28,7 +28,7 @@ For retail traders, Glassnode Studio serves as an educational resource to better
 
 ---
 
-![Glassnode Charts]()
+![Glassnode Charts](https://camo.githubusercontent.com/3cdecfeaa8c78067fed3504df8c93149c3d574ad088e7372fe909115af1b99c6/68747470733a2f2f7062732e7477696d672e636f6d2f616d706c6966795f766964656f5f7468756d622f313934303033363839363630313539353930342f696d672f33444e627a6c5f72726a565f385a526a2e6a7067)
 
 ---
 
